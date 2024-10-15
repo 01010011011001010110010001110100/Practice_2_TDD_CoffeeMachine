@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaqQOQph07shpJwj37xNKeXpLS8i25fs6qRTr1xyDR7BKbqSqV6awUrCjrc76JoTDwHhrghc/dNIeTN0F4sNqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\TDD\\TDD\\TDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.4.1\\microsoft.testing.extensions.telemetry.1.4.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.4.1\\microsoft.testing.extensions.trxreport.abstractions.1.4.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.4.1\\microsoft.testing.extensions.vstestbridge.1.4.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.testing.platform\\1.4.1\\microsoft.testing.platform.1.4.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.4.1\\microsoft.testing.platform.msbuild.1.4.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mstest.testadapter\\3.6.1\\mstest.testadapter.3.6.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mstest.testframework\\3.6.1\\mstest.testframework.3.6.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
